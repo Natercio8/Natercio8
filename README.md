@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Natercio8
+- 👋 Hi, I’m Natercio
 - 🌱 I’m currently learning JavaScript...
 - 📫 How to reach me -> natercio.afonso98@gmail.com
 
