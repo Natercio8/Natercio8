@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Natercio
-- 🌱 I’m currently learning JavaScript...
+- 🌱 I’m currently learning C#...
 - 📫 How to reach me -> natercio.afonso98@gmail.com
 
 <!---
